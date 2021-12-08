@@ -5,7 +5,7 @@ the website can be accessed at `http://ugdev.cs.smu.ca/~group15/` for general us
 
 ## Installation
 
-1. Log in to the account `group15` on the `ugdev.cs.smu.ca` server.
+1. Log in to the `group15` account on the `ugdev.cs.smu.ca` server.
 
 2. Run the following command:
 
@@ -19,7 +19,7 @@ cd public_html && git clone https://github.com/HealthSouthern48/KLOQOWEJ-story.g
 
 ## Updating
 
-1. Log in to the account `group15` on the `ugdev.cs.smu.ca` server.
+1. Log in to the `group15` account on the `ugdev.cs.smu.ca` server.
 
 2. Run the following command:
 
