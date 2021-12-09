@@ -1,7 +1,8 @@
 # KLOQOWEJ-story
 
-Files to be put on the public server;
-the website can be accessed at `http://ugdev.cs.smu.ca/~group15/` for general use.
+Files to be put on the public server.
+
+The website can be accessed at [https://ugdev.cs.smu.ca/~group15/](https://ugdev.cs.smu.ca/~group15/) for general use.
 
 ## Installation and Updating
 
