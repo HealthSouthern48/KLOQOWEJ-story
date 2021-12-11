@@ -1,4 +1,6 @@
-# KLOQOWEJ-story
+# Kwe'
+
+Fun, engaging and interactive app for kids to learn the Mi'kmaq language.
 
 **Software Engineering (CSCI-3428) Project for Fall 2021**
 at
@@ -99,3 +101,7 @@ overwriting the existing files with the same name
 - Done.
 
 ---
+
+## credits:
+
+Background art: [Background vector created by vectorpouch - www.freepik.com](https://www.freepik.com/vectors/background)
